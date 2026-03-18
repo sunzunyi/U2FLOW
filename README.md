@@ -76,7 +76,10 @@ The training pipeline for Sintel follows a similar two-stage approach:
 
 ## 🧪 How to Test
 
-Pre-trained final checkpoints are provided in the `checkpoints/` directory (`kitti.pth` and `sintel.pth`). 
+Pre-trained checkpoints are available at:  
+https://drive.google.com/drive/folders/1zPanXhaVFGwd-et8d9u_EuE58KstVIq9?usp=sharing  
+
+Please place them in the `checkpoints/` directory (e.g., `kitti.pth` and `sintel.pth`).
 
 To evaluate the model, run `evaluate.py` with the desired configuration. Make sure to update the checkpoint path in `evaluate.py` accordingly.
 
