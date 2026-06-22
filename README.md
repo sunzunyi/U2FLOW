@@ -1,5 +1,5 @@
 
-# U²Flow: Uncertainty-Aware Unsupervised Optical Flow Estimation (CVPR 2026)
+# U²Flow: Uncertainty-Aware Unsupervised Optical Flow Estimation (CVPR 2026 🎤 Oral, 🏆 Award Candidate)
 
 ## ⚙️ Requirements
 
